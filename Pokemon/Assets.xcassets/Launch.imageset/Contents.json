@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Halloween_2019_loading_screen-473x1024.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Halloween_2019_loading_screen-473x1024 1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Halloween_2019_loading_screen-473x1024 2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
